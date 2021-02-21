@@ -46,7 +46,7 @@ body {
     margin-left: 4em;
 }
 
-footer{
+/*footer{
     bottom: 0;
     width: 100%;
     background-color: #343a40;
@@ -54,12 +54,4 @@ footer{
     text-align: center;
     padding: 10px;
     font-size: 1rem;
-}
-
-.alignright{
-    float: right;
-}
-
-.alignleft{
-    float: left;
-}
+}*/
